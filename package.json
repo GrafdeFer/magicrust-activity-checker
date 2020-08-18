@@ -1,0 +1,16 @@
+{
+  "name": "magicrust-players-activity-checker",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "express": "latest",
+    "puppeteer": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node ./server/index.js"
+  },
+  "license": "ISC"
+}
